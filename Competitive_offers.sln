@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competitive_offers", "Competitive_offers\Competitive_offers.csproj", "{C73D5069-774D-4B18-AEDE-5D4E4879D23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalScripts", "AdditionalScripts\AdditionalScripts.csproj", "{3542C96F-3B27-4928-B74C-1DB578310019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73D5069-774D-4B18-AEDE-5D4E4879D23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73D5069-774D-4B18-AEDE-5D4E4879D23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73D5069-774D-4B18-AEDE-5D4E4879D23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73D5069-774D-4B18-AEDE-5D4E4879D23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3542C96F-3B27-4928-B74C-1DB578310019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3542C96F-3B27-4928-B74C-1DB578310019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3542C96F-3B27-4928-B74C-1DB578310019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3542C96F-3B27-4928-B74C-1DB578310019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

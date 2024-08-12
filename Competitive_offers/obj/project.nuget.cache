@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWi9H6P0jURF7Gp5mB1Wn2UyoXL3MGC2LypSCcvrLYcm5rijlSnFqFVC/jTNTcQqvIaubQ+SHtrmoZ+jMrLBEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darya\\RiderProjects\\Competitive_offers\\Competitive_offers\\Competitive_offers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darya\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\darya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\darya\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
